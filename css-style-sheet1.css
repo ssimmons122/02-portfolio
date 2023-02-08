@@ -1,6 +1,16 @@
 css-style-sheet1
 <style>
+element.style {
+  background-color: lightblue;
+  
+  
+}
+
+
+
+
 .nav {
+  flex-direction: space-around; 
   background-color: yellow; 
   list-style-type: none;
   text-align: center;
@@ -15,8 +25,6 @@ css-style-sheet1
 }
 
 .navbar {
-    overflow: hidden; /* Hide overflow */
-    background-color: #efebeb; /* white background color */
 	float: right; /* Float a link to the right */
 	display: block; /* Change the display to block, for responsive reasons (see below) */
 	color: rgb(7, 6, 6); /* black text color */
