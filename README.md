@@ -1,10 +1,10 @@
 # Professional-ish Portfolio
 
 ## Description
-This application is be a compliation of projects I've completed and in the process up continually updating.  They will be personal projects as well as those completed in the course of the OSU bootcamp.   
+This application is a compilation of projects I've completed and will be continuously updating.  They will be personal projects as well as those completed in the course of the OSU bootcamp.   
 
 ## Usage
-This portfolio will be used to showcase acquired skills via work samples for potential employers.  It (ideally) will be updated as our knowledge set grows with examples of the previous weeks lesson.
+This portfolio will be used to showcase acquired skills via work samples for potential employers.  It (ideally) will be updated as our knowledge set grows with examples from the previous week's lesson.
 
 ## Visual
 Screencastify video: https://drive.google.com/file/d/1AMVNOMPdeSA0m5ZlULJv84m99e41MrFj/view <br>
