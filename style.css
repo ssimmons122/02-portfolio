@@ -140,24 +140,73 @@ li a {
   justify-content: space-between;
 }
 
-.page-section > h2 {
-  flex: 0 0 20%;
-  text-align: right;
-  padding-right: 15px;
-  border-right: 3px solid var(--primary);
-  font-size: 4vw;
-  line-height: 1.1;
-}
-
-.page-section > div {
-  flex: 0 0 77%;
+.flex-container {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
 }
 
 
+.flex-item {
+  border:5px solid var(--tertiary);
+  color: var(--primary);
+  min-height: 150px;
+  max-height: 150px;
+  flex-basis: calc(50% - 2em);
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 20px 0;
+  margin: 0.5em;
+  text-decoration: none;
+  background-blend-mode: soft-light;
+  background-size: 120%;
+  transition: all 0.5s;
+  font-size: 0.9rem;
+}
+
+.flex-item:first-child {
+  min-height: 350px;
+  flex-basis: 100%;
+}
+
+.flex-item:hover {
+  background-color: rgba(143, 87, 150, 0.424);
+}
+
+.flex-item div {
+  background-color: var(--secondary);
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.flex-item h3 {
+  font-size: 1.6rem;
+}
+
+.project1 {
+  background-image: url("https://raw.githubusercontent.com/ssimmons122/02-portfolio-start/main/assets/MoveMeScene.png");
+  background-repeat: no-repeat;
+}
+
+.project2 {
+  background-image: url("https://user-images.githubusercontent.com/121777930/224603658-15aad6c4-9d3e-41e2-a60f-6fad5b4fe6e6.png");
+}
+
+.project3 {
+  background-image: url("https://user-images.githubusercontent.com/121777930/236078397-736df261-4772-4b68-b631-83c86c98bead.png");
+}
+
+.project4 {
+  background-image: url("https://user-images.githubusercontent.com/121777930/222046676-fd4835cb-82ca-48a9-9524-4b10efae9c71.png");
+}
+
+.project5 {
+  background-image: url("../assets/jakub-neskora-A9tqu5iCFCQ-unsplash.jpg");
+}
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #580663;
+  background-color: #bd82c4;
 }
   nav ul {
     display: flex;
@@ -195,11 +244,6 @@ li a:hover {
 }
 
 
-.flex-item div {
-  background-color: var(--secondary);
-  padding: 8px 10px;
-  cursor: pointer;
-}
 
 
 
