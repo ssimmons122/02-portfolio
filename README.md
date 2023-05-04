@@ -1,4 +1,4 @@
-#Professional Portfolio
+# Professional-ish Portfolio
 
 ## Description
 This application is be a compliation of projects I've completed and in the process up continually updating.  They will be personal projects as well as those completed in the course of the OSU bootcamp.   
