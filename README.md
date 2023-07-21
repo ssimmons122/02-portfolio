@@ -11,6 +11,9 @@ Screencastify video: https://drive.google.com/file/d/1AMVNOMPdeSA0m5ZlULJv84m99e
 ![Screenshot 2023-05-03 at 10 22 35 PM](https://user-images.githubusercontent.com/121777930/236097356-48a5e43a-d422-44d6-acdc-0c2f6988bae5.png) <br>
 [02-portfolio-start.webm](https://user-images.githubusercontent.com/121777930/236096923-2d334b25-26f9-4f72-b9fd-efdfc1c28087.webm)
 
+## Link to Deployed Page
+[https://ssimmons122.github.io/02-portfolio/]  
+
 ## Acknowledgements
 StudyGroup, tutor, and Chris Simmons 
 
